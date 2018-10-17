@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bea863e-11ca-499f-bb20-d50f41a58017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LibreBaskerville-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Lobster-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OldStandard-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/cake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/google+.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/if_instagram_online_social_media_767544.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/if_linked_in_online_social_media_767542.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/if_online_social_media_youtube_767539.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/if_pinterest_online_social_media_767537(1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/if_social_media_logo_brand_github_2553560.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/if_twitter_online_social_media_767531(1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/mortarboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/phone1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/position.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/residence.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons all/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/boot4 ready.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/easy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reg background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reg background2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/responsive.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/services.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,24 +95,28 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="972" />
-          <entry key="html" value="261" />
+          <entry key="css" value="1046" />
+          <entry key="html" value="334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="972" />
-          <entry key="HTML" value="261" />
+          <entry key="CSS" value="1046" />
+          <entry key="HTML" value="334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -187,10 +133,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="1921">
               <caret line="113" column="72" selection-start-line="113" selection-start-column="72" selection-end-line="113" selection-end-column="72" />
             </state>
           </provider>
@@ -199,7 +145,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="2108">
               <caret line="124" column="72" selection-start-line="124" selection-start-column="72" selection-end-line="124" selection-end-column="72" />
             </state>
           </provider>
@@ -208,17 +154,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="104" column="72" selection-start-line="104" selection-start-column="72" selection-end-line="104" selection-end-column="72" />
+            <state relative-caret-position="119">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/css/custom.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="540" column="17" selection-start-line="540" selection-start-column="17" selection-end-line="540" selection-end-column="17" />
+            <state relative-caret-position="128">
+              <caret line="491" column="38" selection-start-line="491" selection-start-column="37" selection-end-line="491" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -241,10 +187,11 @@
       <list>
         <option value="$PROJECT_DIR$/julius.html" />
         <option value="$PROJECT_DIR$/faq.html" />
-        <option value="$PROJECT_DIR$/Bootstrap/css/custom.css" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/css/custom.css" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/custom.css" />
       </list>
     </option>
   </component>
@@ -256,7 +203,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="745" />
+    <option name="width" value="708" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -266,7 +213,28 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-project-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-project-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-project-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-project-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,15 +247,16 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\web-project-master" />
+      <recent name="$PROJECT_DIR$/icons all" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\my website11\icons all" />
       <recent name="$PROJECT_DIR$/icons all" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/icons all" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -331,17 +300,24 @@
       <workItem from="1539586024156" duration="2280000" />
       <workItem from="1539602314652" duration="1916000" />
       <workItem from="1539605312419" duration="58000" />
+      <workItem from="1539615381625" duration="278000" />
+      <workItem from="1539617356941" duration="1503000" />
+      <workItem from="1539662456829" duration="598000" />
+      <workItem from="1539669963082" duration="599000" />
+      <workItem from="1539684891903" duration="599000" />
+      <workItem from="1539700186137" duration="595000" />
+      <workItem from="1539756689496" duration="1409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133468000" />
+    <option name="totallyTimeSpent" value="139049000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="745" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="708" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.459854" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4591528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -396,31 +372,31 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/faq.html" />
-    <entry file="file://$PROJECT_DIR$/Bootstrap/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="540" column="17" selection-start-line="540" selection-start-column="17" selection-end-line="540" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="104" column="72" selection-start-line="104" selection-start-column="72" selection-end-line="104" selection-end-column="72" />
+        <state relative-caret-position="1921">
+          <caret line="113" column="72" selection-start-line="113" selection-start-column="72" selection-end-line="113" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="2108">
           <caret line="124" column="72" selection-start-line="124" selection-start-column="72" selection-end-line="124" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="113" column="72" selection-start-line="113" selection-start-column="72" selection-end-line="113" selection-end-column="72" />
+        <state relative-caret-position="119">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="491" column="38" selection-start-line="491" selection-start-column="37" selection-end-line="491" selection-end-column="38" />
         </state>
       </provider>
     </entry>
