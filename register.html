@@ -41,7 +41,7 @@
 <div class="reg-form-container">
     <div class="reg-form-wrapper">
         <div class="form-header text-center bg-info">
-            <h3>Register & Access premiums</h3>
+            <nobr><h3>Register & Access premiums</h3></nobr>
         </div>
 <form action="" class="complete-form my-0">
         <p><label class="label">first name:</label>
@@ -66,16 +66,16 @@
         <input type="password" class="inp" placeholder="confirm password">
     </p>
     <p><label class="label">gender:</label>
-        <nobr><input type="radio" name="gender" required><label>male</label>
-        <input type="radio" name="gender" ><label>female</label>
-        <input type="radio" name="gender" ><label>other</label></nobr>
+        <nobr><label>male</label><input type="radio" name="gender" required>
+        <span class="female"><input type="radio" name="gender" ><label>female</label></span></nobr><br/>
+        <span class="other"><label>other</label><input type="radio" name="gender"></span>
     </p>
 
     <label class="label comment-label">Message:</label>
     <textarea name="comment" class="rounded"></textarea>
 
         <input type="submit" value="Submit" class="rb btn btn-block btn-primary rb1">
-        <input type="reset" value="Refresh" class="rb btn btn-block btn-warning">
+        <input type="reset" value="Refresh" class="rb btn btn-block btn-danger">
 </form>
 </div>
 </div>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>julius</title>
     <link rel="stylesheet" href="Bootstrap/css/bootstrap.css">
-    <link rel="stylesheet" href="Bootstrap/css/custom.css">
+    <link rel="stylesheet" href="custom.css">
     <script src="Bootstrap/js/jquery.min.js"></script>
     <script src="Bootstrap/js/bootstrap.js"></script>
 </head>
@@ -46,15 +46,14 @@
     <h3 class="landing-text2">Create a site With us For more traffic!</h3>
 
     <form action="">
-        <p><nobr><input type="text" class="landing-inp" placeholder="enter your email">
-        <button class="btn btn-info">Log in</button>
-        </nobr>
+        <p>
+        <input type="text" class="landing-inp" placeholder="enter your email">
+        <button class="btn btn-info landing-inp">Log in</button>
+        <nobr><span class="register">Not registered? <a href="register.html">Sign up</a></span></nobr>
         </p>
     </form>
-   <nobr>
-       <p class="text-center register">Not registered? <a href="register.html">Sign up</a>
-       </p>
-   </nobr>
+
+    <hr class="after-login-form">
 </div>
 
 
@@ -64,8 +63,8 @@
     <div class="salutation">
     <hr>
     <h4 class="welcome">Welcome</h4>
-    <p class="after-welcome">to <span class="lead">tazusi</span> web developers</p>
-        <hr>
+    <nobr><p class="after-welcome">to <span class="lead">tazusi</span> web developers</p></nobr>
+    <hr>
     </div>
 
     <div class="row skill-row">
